@@ -1,0 +1,9 @@
+torch
+numpy
+opencv-python
+ultralytics
+supervision
+secure-smtplib
+email
+time
+mime
